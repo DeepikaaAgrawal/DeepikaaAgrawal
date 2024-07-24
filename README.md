@@ -2,6 +2,8 @@
 - 👀  My interests lie in development and Problem-solving is another area I really enjoy and love to engage in.
 - 🌱 I’m currently learning MERN stack and DSA.
 - 📫 How to reach me deepikaa601@gmail.com
+- # Connect with me:
+  
 
 <!---
 DeepikaaAgrawal/DeepikaaAgrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
