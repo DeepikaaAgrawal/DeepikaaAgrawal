@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepika Agrawal</h1>
-<h3 align="center">A passionate Computer Science </h3>
+<h3 align="center">A passionate Computer Science Student </h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/video/2024/05/30/214500_tiny.jpg">
 
